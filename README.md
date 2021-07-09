@@ -1,1 +1,1 @@
-# pythpn-selenium-curso
+# python-selenium-curso
